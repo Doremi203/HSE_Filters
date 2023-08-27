@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HSE_Filters/1.0.0": {
+        "dependencies": {
+          "Filters": "1.0.0",
+          "Menu": "1.0.0",
+          "Utilities": "1.0.0"
+        },
+        "runtime": {
+          "HSE_Filters.dll": {}
+        }
+      },
+      "Filters/1.0.0": {
+        "runtime": {
+          "Filters.dll": {}
+        }
+      },
+      "Menu/1.0.0": {
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HSE_Filters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Filters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
